@@ -1,0 +1,27 @@
+package Animais;
+
+public class Gato {
+
+	// Atributos
+	private String nome;
+	private String cor;
+	private String raca;
+
+	// Construtor Padrão
+	public Gato() {
+	}
+
+	// Métodos
+	public void miar() {
+		System.out.println("Miau!");
+	}
+
+	public void arranhar() {
+		System.out.println("Gato está arranhando");
+	}
+
+	public void correr() {
+		System.out.println("Correndo");
+	}
+
+}

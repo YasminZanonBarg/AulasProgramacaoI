@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\114954\Documents\Unifebe-Codigos\3 Semestre\Programacao I\.metadata\.plugins\org.eclipse.jdt.core
+4202217041.index
+4007193266.index
+1865797976.index

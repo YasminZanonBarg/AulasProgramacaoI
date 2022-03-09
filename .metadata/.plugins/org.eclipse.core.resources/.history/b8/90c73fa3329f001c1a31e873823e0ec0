@@ -1,0 +1,11 @@
+import Animais.Gato;
+
+public class Principal {
+
+	public static void main(String[] args) {
+		Gato g = new Gato();
+		g.miar();
+
+	}
+
+}
